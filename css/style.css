@@ -77,4 +77,10 @@
     transition: 2s;
 }
 
+.es-8 img:hover {
+    border-radius: 50px;
+    filter: sepia(75%);
+    transition: 2s;
+}
+
 
