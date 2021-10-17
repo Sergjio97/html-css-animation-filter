@@ -14,7 +14,7 @@
 
 .es-1:hover {
     background-color: red;
-    transition: 2s;
+    transition: 3s;
 }
 
 .es-2 {
@@ -26,4 +26,15 @@
 
 .es-2:active {
     width: 1500px;
+}
+
+.es-3 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    transition: 1s;
+}
+
+.es-3:hover {
+    border-radius: 50%;
 }
