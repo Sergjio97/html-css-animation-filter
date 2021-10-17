@@ -72,4 +72,9 @@
 
 }
 
+.es-7:hover {
+    filter: sepia(75%);
+    transition: 2s;
+}
+
 
