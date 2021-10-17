@@ -67,4 +67,9 @@
     height: 25px;
 }
 
+.es-6:hover {
+    filter: grayscale(100%);
+
+}
+
 
